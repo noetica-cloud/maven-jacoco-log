@@ -1,6 +1,6 @@
 # JaCoCoLog
 
-Inspired from [JaCoCo Gradle Plugin](https://gitlab.com/barfuin/gradle-jacoco-log)
+Inspired from [JaCoCo Gradle Plugin](https://gitlab.com/barfuin/gradle-jacoco-log).  
 Maven plugin that logs test coverage calculated by the
 [JaCoCo Maven Plugin](https://www.eclemma.org/jacoco/trunk/doc/maven.html) to the Maven build log.
 This plugin can also aggregate coverage information from multiple modules in a multi-module build.
@@ -48,17 +48,18 @@ coverage: '/    - Instruction Coverage: ([0-9.]+)%/'
 
 ## Development
 
-In order to develop *gradle-jacoco-log* and build it on your local machine, you need:
+In order to develop *maven-jacoco-log (JaCoCoLog)* and build it on your local machine, you need:
 
 - Java 8 JDK ([download](https://adoptopenjdk.net/releases.html?variant=openjdk8))
-- Gradle, but we use the Gradle Wrapper, so there is nothing to install for you
+- Maven, but we use the Maven Wrapper, so there is nothing to install for you
+- You can also use DevContainer with the repository's commited [configuration file](.devcontainer/devcontainer.json)
 
 The project is IDE agnostic. Just use your favorite IDE and make sure none of its control files get checked in.
 
 
 ## Status
 
-*maven-jacoco-log* is currently in development.
+*maven-jacoco-log (JaCoCoLog)* is currently in development.
 
 
 ## License
