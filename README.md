@@ -19,7 +19,7 @@ Test Coverage:
 
 #### Prerequisites
 
-- Maven 3.0 or newer
+- Maven 3.8 or newer
 - Java 8 or newer
 
 &nbsp;
