@@ -1,4 +1,4 @@
-package org.noetica.cloud.jacocolog;
+package cloud.noetica.jacocolog;
 
 import java.io.File;
 import java.io.IOException;

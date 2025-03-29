@@ -1,4 +1,4 @@
-package org.noetica.cloud.jacocolog;
+package cloud.noetica.jacocolog;
 
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;

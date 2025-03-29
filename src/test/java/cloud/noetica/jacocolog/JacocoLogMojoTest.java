@@ -1,4 +1,4 @@
-package org.noetica.cloud.jacocolog;
+package cloud.noetica.jacocolog;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;

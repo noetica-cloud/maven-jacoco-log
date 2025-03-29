@@ -15,7 +15,7 @@
  *   limitations under the License.
  */
 
-package org.noetica.cloud.jacocolog;
+package cloud.noetica.jacocolog;
 
 import java.util.EnumMap;
 import org.jacoco.core.analysis.IBundleCoverage;
