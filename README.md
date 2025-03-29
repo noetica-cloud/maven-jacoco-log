@@ -19,12 +19,25 @@ Test Coverage:
 
 #### Prerequisites
 
-- Maven 3.0 or newer
+- Maven 3.8 or newer
 - Java 8 or newer
 
 &nbsp;
 
 ----------------------------------------------------------------------------------------------------------------------
+
+## How to use
+
+*jacocolog-maven-plugin* is published to the
+[Maven Central Repository](https://mvnrepository.com/artifact/cloud.noetica.jacocolog/jacocolog-maven-plugin),
+so you can just use it in your build like so:
+```xml
+<plugin>
+  <groupId>cloud.noetica.jacocolog</groupId>
+  <artifactId>jacocolog-maven-plugin</artifactId>
+  <version>1.0-SNAPSHOT</version>
+</plugin>
+```
 
 ## Details
 
