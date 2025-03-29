@@ -29,7 +29,7 @@
   <description>The JaCoCoLog Maven Plugin provides the coverage goal to aggregate reports and log coverage probes.</description>
 
   <prerequisites>
-    <maven>3.8.1</maven>
+    <maven>3.9.9</maven>
   </prerequisites>
 
   <properties>
